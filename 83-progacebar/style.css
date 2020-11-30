@@ -1,0 +1,46 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 80px 0;
+}
+.section-tittle {
+  margin-bottom: 50px;
+}
+.single-circle-progressbar {
+  text-align: center;
+}
+.circle-progressbar-wrap {
+  position: relative;
+  margin-bottom: 20px;
+}
+.progressbar-percentage {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  line-height: 40px;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: -20px;
+}
+h3 {
+}
+.single-circle-progressbar h3 {
+  font-weight: 700;
+}
+
+
+
+
+
+
